@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-gitblock-dark.svg">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <img src="profile-3d-contrib/profile-gitblock.svg" />
   </picture>
 </div>
 
