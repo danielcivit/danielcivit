@@ -8,7 +8,7 @@
 <br/>
 
 <h1 align="center">Daniel Civit</h1>
-<p align="center">Senior Full Stack Engineer & Tech Lead</p>
+<p align="center">Senior Full Stack Developer & Tech Lead</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielcivit/">LinkedIn</a>
