@@ -8,7 +8,7 @@
 <br/>
 
 <h1 align="center">Daniel Civit</h1>
-<p align="center">Senior Full Stack Developer & Tech Lead</p>
+<p align="center">Senior Full Stack Web Developer & Tech Lead</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielcivit/">LinkedIn</a>
@@ -20,6 +20,6 @@
 
 ### About
 
-Senior Full Stack Engineer & Tech Lead specializing in payment infrastructure, API ecosystems, and core e-commerce platforms including Magento, WooCommerce, Shopify, PrestaShop, OpenCart, Odoo, Shopware, Lightspeed and more.
-Architecting scalable middleware, robust SDKs, and developer tooling powered by PHP, JavaScript, Node.js, Python, MySQL, Docker containerized environments and more.
-Passionate about turning complex integration challenges into clean, maintainable, and high-efficiency solutions.
+Senior Full Stack Web Developer & Tech Lead specializing in CMS development, gateway integrations, and API ecosystems across multiple e-commerce platforms, including Magento, WooCommerce, Shopify, PrestaShop, OpenCart, Odoo, Shopware, and Lightspeed, among others.
+
+Experienced in building cross-platform integrations, scalable middleware, robust SDKs, and developer tooling using PHP, JavaScript, Node.js, Python, MySQL, and Docker. Focused on connecting diverse CMS platforms, gateways, APIs, and third-party services through reliable, scalable, and maintainable solutions. Passionate about simplifying complex integration challenges and developing high-performance tools that streamline connectivity across e-commerce ecosystems.
